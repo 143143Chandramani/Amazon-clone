@@ -1,0 +1,17 @@
+/*
+https://m.media-amazon.com/images/G/31/gno/sprites/nav-sprite-global-2x-reorg-privacy._CB600086755_.png
+*/
+
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+}
+.header{
+    background-color: rgb(19,25,33);
+    height: 50px;
+}
+
+
+
